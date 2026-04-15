@@ -1,0 +1,12 @@
+name: rna_seq
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - anndata
+  - matplotlib
+  - pandas
+  - scanpy
+  - seaborn
+  - ipykernel
+prefix: /gpfs/Home/esm5360/miniconda3/envs/rna_seq
