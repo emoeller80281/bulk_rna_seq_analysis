@@ -9,4 +9,5 @@ dependencies:
   - scanpy
   - seaborn
   - ipykernel
+  - nbstripout
 prefix: /gpfs/Home/esm5360/miniconda3/envs/rna_seq
